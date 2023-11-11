@@ -1,7 +1,6 @@
 # Anastasia Shkodskikh
 
-phone: +7-911-1537464
-nicname in discord: MasterBo
+* nicname in discord: MasterBo
 
 ### **Employment History**  
 
