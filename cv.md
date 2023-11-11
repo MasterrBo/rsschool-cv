@@ -1,18 +1,21 @@
 # Anastasia Shkodskikh
 
-### **Employment History  
+phone: +7-911-1537464
+nicname in discord: MasterBo
+
+### **Employment History**  
 
 **10.2019 - present** - Digital agency "Mediasfera"
 
 #### Position: SEO specialist
 
-#### responsibilities: 
+#### Responsibilities: 
 
 * Development of strategies for SEO in search engines Yandex and Google (internal and external optimization)
 * Collection and clustering of the semantic core
 * Technical and usability audits
 * Analysis of competitors' websites
-* SEO-Support of sites at the development stage
+* SEO-Support of websites at the development stage
 
 **03.2018 -10.2019** ― freelance
 
@@ -20,7 +23,7 @@
 
 #### Position: SEO specialist, copywriter, editor
 
-#### responsibilities: 
+#### Responsibilities:
 
 * Internal and external SEO
 * Collection of semantic core
