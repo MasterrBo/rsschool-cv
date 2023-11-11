@@ -1,61 +1,61 @@
 # Anastasia Shkodskikh
 
-### **ОПЫТ РАБОТЫ**
+### **Employment History  
 
-**10.2019 - настоящее время** - Интернет-агентство Медмаркетинг
+**10.2019 - present** - Digital agency "Mediasfera"
 
-#### Должность:  SEO-специалист
+#### Position: SEO specialist
 
-#### Функции: 
+#### responsibilities: 
 
-*  Разработка стратегий продвижения проектов в поисковых системах Яндекс и Гугл (внутренняя и внешняя оптимизация)
-*  Сбор и кластеризация семантического ядра
-* Технические аудиты и юзабилити-аудиты
-* Анализ сайтов конкурентов
-* SEO-Сопровождение сайтов на этапе разработки
+* Development of strategies for SEO in search engines Yandex and Google (internal and external optimization)
+* Collection and clustering of the semantic core
+* Technical and usability audits
+* Analysis of competitors' websites
+* SEO-Support of sites at the development stage
 
-**03.2018 -10.2019** ― Фриланс
+**03.2018 -10.2019** ― freelance
 
-**04.2006 – 03.2018** ― Интернет-агентство «Кельник»
+**04.2006 – 03.2018** ― Digital agency «Kelnik»
 
-#### Должность:  SEO-специалист, редактор, копирайтер
+#### Position: SEO specialist, copywriter, editor
 
-#### Функции:
+#### responsibilities: 
 
-* Продвижение проектов в поисковых системах Яндекс и Гугл (внутренняя и внешняя оптимизация)
-* Сбор семантического ядра
-* Технический и SEO аудит сайтов, анализ Usability сайтов
-* Мониторинг изменений алгоритмов поисковых машин
-* Разработка отчетности для клиентов
-* Прогнозирование трафика, бюджетов, объема работ
-* SEO-сопровождение сайтов на этапе разработки
-* Работа с системами аналитики: Яндекс Метрика, Google Analytics, Topvisor и другими
-* Коммуникации с клиентами, подготовка коммерческих предложений
-* Анализ конкурентов в поисковой выдаче
-* Составление стратегии продвижения 
-* Копирайтинг
+* Internal and external SEO
+* Collection of semantic core
+* Technical audit, Usability analysis
+* Monitoring changes in search engine algorithms
+* Development of reporting for clients
+* Forecasting traffic, budgets, volume of work
+* SEO support for websites at the development stage
+* Working with analytics systems: Yandex Metrika, Google Analytics, Topvisor and others
+* Communication with clients, preparation of commercial proposals
+* Analysis of competitors in search results
+* Drawing up a promotion strategy
+* Copywriting
 
-#### Результаты: 
-1. Руководство подразделением помощников оптимизатора (до 4 человек).
-1. Увеличение посещаемости портала tveda.ru с 3000 до 690 000 визитов в месяц.
-1. Более 100 успешных проектов. Например: [Сайт клиники Бионика](https://www.krasotamed.ru/)
-1. Идея, разработка и поддержка некоммерческого проекта про животных
+#### Resilts: 
+1. Management of a division of optimizer assistants (up to 4 people).
+1. Increasing traffic for site https://www.tveda.ru/ from 3,000 to 690,000 visits per month.
+1. More than 100 successful projects. Ex: [medical clinic website](https://www.krasotamed.ru/)
+1. Idea, development and support of a non-profit project about animals
 
-**06.2005 – 12.2005** ― ЗАО «Союзхимтранс»
+**06.2005 – 12.2005** ― "Soyuzkhimtrans"
 
-#### Должность: менеджер по внешне-экономической деятельности
+#### Position:  manager for foreign economic activities
 
-#### Функции: 
+#### responsibilities: 
 
-Экспорт-импорт грузов. Учет товарного движения. Работа с товаросопроводительными документами (CMR, ГТД и т.д.), оформление документов для погрузки груза на морские суда (через Балтийскую таможню). Коммуникации с  клиентами, морскими агентами, деловая переписка на рус. и англ.яз.).
+Export-import of goods. Accounting for goods movement. Work with shipping documents (CMR, customs declaration, etc.), preparation of documents for loading cargo onto sea vessels (through Baltic customs). Communications with clients, maritime agents, business correspondence in Russian and English).
 
-### ОБРАЗОВАНИЕ: 
+### EDUCATION:
 
-* **1995 – 2000** – Курганский Социально-Экономический Университет, специальность: экономика (высшее)
-* **2002 – 2005** – СПбГУ, специальность: социология (неполное высшее)
-* **1985 – 1992** – Музыкальная школа № 4 (Курган), диплом
-* **11.2018 – 01. 2019** – Курсы HTML и CSS (HTML Academy)
-* **05.2023 – настоящее время** – Курсы лучшей онлайн школы RS School
+* **1995 – 2000** – Kurgan Socio-Economic University, specialty: economics
+* **2002 – 2005** – St. Petersburg State University, specialty: sociology
+* **1985 – 1992** – Music School No. 4 (Kurgan), diploma
+* **11.2018 – 01.2019** – HTML and CSS courses (HTML Academy)
+* **05.2023 – present** – Courses in online school RS School
 
 
 
