@@ -49,7 +49,7 @@
 
 #### responsibilities: 
 
-Export-import of goods. Accounting for goods movement. Work with shipping documents (CMR, customs declaration, etc.), preparation of documents for loading cargo onto sea vessels (through Baltic customs). Communications with clients, maritime agents, business correspondence in Russian and English).
+Export-import of goods. Accounting for goods movement. Work with shipping documents (CMR, customs declaration, etc.), preparation of documents for loading cargo onto sea vessels (through Baltic customs). Communications with clients, maritime agents, business correspondence in Russian and English.
 
 ### EDUCATION:
 
