@@ -57,7 +57,6 @@ Export-import of goods. Accounting for goods movement. Work with shipping docume
 * **2002 – 2005** – St. Petersburg State University, specialty: sociology
 * **1985 – 1992** – Music School No. 4 (Kurgan), diploma
 * **11.2018 – 01.2019** – HTML and CSS courses (HTML Academy)
-* **05.2023 – present** – Courses in online school RS School
 
 
 
