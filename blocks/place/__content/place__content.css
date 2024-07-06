@@ -1,0 +1,27 @@
+.place__content {
+  grid-area: content;
+  margin: 0;
+  padding: 0;
+}
+
+.place__list {
+  line-height: 26px;
+}
+
+@media screen and (max-width: 400px) {
+  .place__content {
+    order: 4;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    padding: 0 16px;
+    display: flex;
+    flex-direction: column; 
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .place:last-child .place__content {
+    margin-bottom: 0;
+  }
+}
+

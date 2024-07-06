@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- <link rel="stylesheet" href="pages/index.css" /> -->
+    <link rel="stylesheet" href="./pages/index.css">
+
+    <title>CV for exam project</title>
+  </head>
+  <body class="big-page">
+    <div class="page">
+      
+      <header class="header">
+        <nav>
+          <ul class="header__links">
+            <li class="header__list"><a href="#" class="header__lang-link header__lang-link_active">Ru</a></li>
+            <li class="header__list"><a href="#" class="header__lang-link">En</a></li>
+          </ul>
+        </nav>
+      </header>
+
+      <main class="content">
+        <section class="lead">
+          <h1 class="lead__title">Anastasia Shkodskikh</h1>
+          <p class="lead__subtitle">
+            Junior Frontend Developer
+          </p>
+
+          <img class="lead__image" src="./images/for-cv.jpg" alt="Photo CV" />
+        </section>
+
+        <section class="intro">
+            <h2 class="intro__title">Contacts</h2>
+            <ul>
+              <li>
+                <img src="./images/phone.svg" alt="Phone Icon" width="30" height="30">
+                <p>+7 (911) 153-74-74</p>
+              </li>
+              <li>
+                <img src="./images/email.svg" alt="Email Icon" width="30" height="30">
+                <p>masterrcss@gmail.com</p>
+              </li>
+              <li>
+                <img src="./images/telegram.svg" alt="Telegram Icon" width="30" height="30">
+                <p>@Seotitle</p>
+              </li>
+            </ul>
+
+          <br>
+
+          <h2 class="intro__title">About</h2> 
+          <p class="intro__text">
+            I'm a SEO specialist but want to change my life and field of activity for web-development. I wish to be a full-stack JavaScript developer. My main goal is to help people and their businesses to resolve problems on the web.
+          </p>
+        </section>
+
+        <section class="places">
+          <br>
+          <div class="place">
+            <h2 class="intro__title">
+              Responsibilities
+            </h2>
+            <img src="./images/seo.png" alt="seo" class="place__image" />
+
+            <div class="place__content">
+              <ul>
+                <li class="place__list">Development of strategies for SEO in search engines Yandex and Google (internal and external optimization)</li>
+                <li class="place__list">Collection and clustering of the semantic core</li>
+                <li class="place__list">Technical and usability audits</li>
+                <li class="place__list">Analysis of competitors' websites</li>
+                <li class="place__list">SEO-Support of websites at the development stage</li>
+                <li class="place__list">Monitoring changes in search engine algorithms</li>
+                <li class="place__list">Development of reporting for clients</li>
+                <li class="place__list">Forecasting traffic, budgets, volume of work</li>
+                <li class="place__list">Analytics systems: Yandex Metrika, Google Analytics, Topvisor and others</li>
+                <li class="place__list">Communication with clients, preparation of commercial proposals</li>
+                <li class="place__list">Drawing up a promotion strategy</li>
+                <li class="place__list">Copywriting</li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="place">
+            <h2 class="intro__title">
+              Education
+            </h2>
+            <img src="./images/education.png" alt="Education" class="place__image"/>
+
+            <div class="place__content">
+              <ul>
+                <li class="place__list">1995 – 2000 – Kurgan Social-Economic University, specialty: economics</li>
+                <li class="place__list">2002 – 2005 – St. Petersburg State University, specialty: sociology</li>
+                <li class="place__list">1985 – 1992 – Music School No. 4 (Kurgan), diploma</li>
+                <li class="place__list">11.2018 – 01.2019 – HTML and CSS courses (HTML Academy)</li>
+            </ul>
+
+              <h3>LANGUAGES</h3>
+
+              <ul>
+                <li class="place__list">English (B1)</li>
+                <li class="place__list">French (CEFR. A1 — Débutant)</li>
+                <li class="place__list">Russian (native)</li>
+            </ul>
+                
+            </div>
+          </div>
+
+          <div class="place">
+            <h2 class="intro__title">
+              Projects
+            </h2>
+            <img src="./images/mesto.png" alt="mesto project" class="place__image" />
+
+            <div class="place__content">
+              <p class="place__paragraph">
+                Student examination projects. Studying web development in Yandex. The service with your own card of travelling. Using flex, adaptive layout and JS.
+              </p>
+              <a href="https://github.com/MasterrBo/mesto" class="place__link">Code of the project</a>
+            </div>
+          </div>
+
+          <div class="place">
+            <h2 class="intro__title">
+              Сode example
+            </h2>
+            <img src="./images/js-code.webp" alt="code example" class="place__image" />
+
+            <div class="place__content">
+
+              <p class="place__paragraph">
+              <code>
+                
+                function createCard(link, name) {
+                const addPlaceFormInputs = popupAddPlace.querySelectorAll('form .form__text');
+                const cardTemplate = document.querySelector('#card').content;
+                const cardElement = cardTemplate.querySelector('.card').cloneNode(true);
+                const cardImg = cardElement.querySelector('.card__img');
+              
+                cardImg.src = link;
+                cardImg.alt = name;
+                cardElement.querySelector('.card__heading').textContent = name;
+              
+                const handleLikeClick = (evt) => {
+                  evt.target.classList.toggle('card__like-btn_active')
+                };
+              </code>
+              </p>
+
+            </div>
+          </div>
+
+        </section>
+      </main>
+
+      <footer class="footer">
+        <div class="footer__columns">
+          <nav>
+            <ul class="footer__list">
+              <li class=""><a href="https://github.com/MasterrBo" class="footer__link" target="blank">Гитхаб</a></li>
+              <li class=""><a href="https://rs.school/" target="blank"><img class="header__logo" src="./images/logo-rsschool3.png" alt="Логотип" /></a></li>
+            
+            </ul>
+          </nav>
+
+          <p class="footer__copyright">&copy; 2024. A.Shkoskikh</p>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>
